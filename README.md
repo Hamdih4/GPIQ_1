@@ -27,8 +27,10 @@ The library system is a mini program for a digital library to help people search
 
 ## Features ##
 
- #### Feature 1: Searching for a book ####
- * When `search for a book` was selected, the user will be prompted again to enter the book id number.
+* List of program features:
+
+#### Feature 1: Searching for a book ####
+ * When `search for a book` is selected, the user will be prompted again to enter the book id number.
 
  ```
  Enter the book id to search for: __
@@ -45,8 +47,8 @@ The library system is a mini program for a digital library to help people search
   2 Available
   ```
 
- #### Feature 2: Borrowing a book ####
- * When `borrow a book` was selected, the user will be prompted again to enter the book id number.
+#### Feature 2: Borrowing a book ####
+ * When `borrow a book` is selected, the user will be prompted again to enter the book id number.
 
  ```
  Enter the book id to search for: __
@@ -64,8 +66,8 @@ The library system is a mini program for a digital library to help people search
  2 Available, successfully borrowed by you.
  ```
 
- #### Feature 3: Returning a book ####
- * When `return a book` was selected, the user will be prompted again to enter the book id number.
+#### Feature 3: Returning a book ####
+ * When `return a book` is selected, the user will be prompted again to enter the book id number.
 
  ```
  Enter the book id to search for: __
